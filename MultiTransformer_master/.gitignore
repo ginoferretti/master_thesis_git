@@ -127,3 +127,4 @@ dmypy.json
 #ignore files
 *.csv
 *.xlsx
+*.png
